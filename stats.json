@@ -1,0 +1,163 @@
+{
+  "servers": {
+    "hadaria": {
+      "name": "hadaria",
+      "address": "145.239.131.172",
+      "port": 25565,
+      "maxPlayer": 864,
+      "stats": [
+        {
+          "player": 632,
+          "maxPlayer": 750,
+          "date": 1572103325342
+        },
+        {
+          "player": 634,
+          "maxPlayer": 750,
+          "date": 1572103423994
+        },
+        {
+          "player": 629,
+          "maxPlayer": 750,
+          "date": 1572103486944
+        },
+        {
+          "player": 629,
+          "maxPlayer": 750,
+          "date": 1572103539249
+        },
+        {
+          "player": 630,
+          "maxPlayer": 750,
+          "date": 1572103569246
+        },
+        {
+          "player": 632,
+          "maxPlayer": 750,
+          "date": 1572103599252
+        },
+        {
+          "player": 626,
+          "maxPlayer": 750,
+          "date": 1572103629248
+        },
+        {
+          "player": 624,
+          "maxPlayer": 750,
+          "date": 1572103659247
+        },
+        {
+          "player": 629,
+          "maxPlayer": 750,
+          "date": 1572103689249
+        }
+      ]
+    },
+    "paladium": {
+      "name": "paladium",
+      "address": "proxy.paladium-pvp.fr",
+      "port": 25565,
+      "maxPlayer": 1476,
+      "stats": [
+        {
+          "player": 1163,
+          "maxPlayer": 825,
+          "date": 1572103325431
+        },
+        {
+          "player": 1171,
+          "maxPlayer": 825,
+          "date": 1572103424058
+        },
+        {
+          "player": 1171,
+          "maxPlayer": 825,
+          "date": 1572103487010
+        },
+        {
+          "player": 1167,
+          "maxPlayer": 825,
+          "date": 1572103539923
+        },
+        {
+          "player": 1169,
+          "maxPlayer": 825,
+          "date": 1572103569306
+        },
+        {
+          "player": 1165,
+          "maxPlayer": 825,
+          "date": 1572103599614
+        },
+        {
+          "player": 1160,
+          "maxPlayer": 825,
+          "date": 1572103629388
+        },
+        {
+          "player": 1163,
+          "maxPlayer": 825,
+          "date": 1572103659309
+        },
+        {
+          "player": 1160,
+          "maxPlayer": 825,
+          "date": 1572103689302
+        }
+      ]
+    },
+    "Chocolia": {
+      "name": "Chocolia",
+      "address": "play.chocolia.eu",
+      "port": 25565,
+      "maxPlayer": 466,
+      "stats": [
+        {
+          "player": 367,
+          "maxPlayer": 377,
+          "date": 1572103325511
+        },
+        {
+          "player": 368,
+          "maxPlayer": 378,
+          "date": 1572103424122
+        },
+        {
+          "player": 371,
+          "maxPlayer": 381,
+          "date": 1572103487084
+        },
+        {
+          "player": 367,
+          "maxPlayer": 377,
+          "date": 1572103539997
+        },
+        {
+          "player": 371,
+          "maxPlayer": 381,
+          "date": 1572103569359
+        },
+        {
+          "player": 368,
+          "maxPlayer": 378,
+          "date": 1572103599679
+        },
+        {
+          "player": 365,
+          "maxPlayer": 375,
+          "date": 1572103629441
+        },
+        {
+          "player": 368,
+          "maxPlayer": 378,
+          "date": 1572103659376
+        },
+        {
+          "player": 368,
+          "maxPlayer": 378,
+          "date": 1572103689356
+        }
+      ]
+    }
+  }
+}
